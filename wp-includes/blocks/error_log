@@ -1,0 +1,12 @@
+[15-Oct-2023 14:10:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/smknspp/sikepmart.smknspplampung.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/smknspp/sikepmart.smknspplampung.sch.id/wp-includes/blocks/index.php on line 8
+[16-Oct-2023 11:08:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/smknspp/sikepmart.smknspplampung.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/smknspp/sikepmart.smknspplampung.sch.id/wp-includes/blocks/index.php on line 8
+[19-Oct-2023 05:59:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/smknspp/sikepmart.smknspplampung.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/smknspp/sikepmart.smknspplampung.sch.id/wp-includes/blocks/index.php on line 8
